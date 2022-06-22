@@ -5,7 +5,7 @@ A simple E-commerce application using React Js and Fakestore API, it fetchs prod
 - Fake server : https://fakestoreapi.com/products
 
 # Deployment
-`<link>` : [React_E-Commerce_App]()
+`<link>` : [React_E-Commerce_App](https://e-commerce-app-03.herokuapp.com/)
 
 # Features :-
 App using the following service to create a dummy ecommerce api service (create good amount of data): https://fakestoreapi.com/products
